@@ -24,8 +24,8 @@ I am a dedicated and passionate Computer Engineering student in my fourth year a
 
 <div>
     <h2 align="left">💻 Tech Stack</h2>
-    Programming Languages
-    <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" height="24">
+    <b>Programming Languages</b>
+    <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" height="20">
 </div>
 
 ## 💻 Tech Stack
