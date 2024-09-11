@@ -2,12 +2,13 @@
     <img width="100%" src="img/Profile-Banner.png">
 </div>
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-    <div>
+<div style="overflow: hidden;">
+    <div style="float: left;">
         <a href="https://visitcount.itsvg.in">
             <img src="https://visitcount.itsvg.in/api?id=TanyatornSrc&icon=6&color=1" height="24">
         </a>
     </div>
+    <div style="float: right;">
         <a href="https://facebook.com/mukmikts" target="_blank">
             <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="24">
         </a>
@@ -17,7 +18,9 @@
         <a href="https://linkedin.com/in/tanyatorn-src" target="_blank">
             <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="24">
         </a>
+    </div>
 </div>
+
 
 <!-- <div align=""left>
     <a href="https://visitcount.itsvg.in">
