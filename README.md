@@ -1,12 +1,11 @@
 <img align="center" width="100%" src="img/Profile-Banner.png">
 
-## SAWATDEE ! 👋
-Hello, I’m Tanyatorn a computer Engineering student in the fourth year at the Faculty of Information Technology, Sripatum University,
+[![](https://visitcount.itsvg.in/api?id=TanyatornSrc&icon=6&color=1)](https://visitcount.itsvg.in)
+
+I am a dedicated and passionate Computer Engineering student in my fourth year at Sripatum University,
 <br>seeking an internship as a Front-end Developer. My strong interest lies in website and application technology, 
 <br>with a particular focus on Front-end Development and UX/UI Design. I am always eager about learning new technologies.
 <br><br>Thanks for dropping by, hope you find some of my work interesting.
-
-<br>[![](https://visitcount.itsvg.in/api?id=TanyatornSrc&icon=6&color=1)](https://visitcount.itsvg.in)
 
 ## 💻 Tech Stack
 **Programming Languages & Framework**
