@@ -2,13 +2,16 @@
     <img width="100%" src="img/Profile-Banner.png">
 </div>
 
-<div style="overflow: hidden;">
-    <div style="float: left;">
+<div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
+    <!-- Profile Views (Left-aligned) -->
+    <div>
         <a href="https://visitcount.itsvg.in">
             <img src="https://visitcount.itsvg.in/api?id=TanyatornSrc&icon=6&color=1" height="24">
         </a>
     </div>
-    <div style="float: right;">
+
+    <!-- Social Links (Right-aligned) -->
+    <div style="display: flex; gap: 8px;">
         <a href="https://facebook.com/mukmikts" target="_blank">
             <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="24">
         </a>
@@ -20,6 +23,7 @@
         </a>
     </div>
 </div>
+
 
 
 <!-- <div align=""left>
