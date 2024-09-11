@@ -9,10 +9,10 @@
     <a href="https://linkedin.com/in/tanyatorn-src" target="_blank">
        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" height="24">
     </a>
-</div>
 
-[![](https://visitcount.itsvg.in/api?id=TanyatornSrc&icon=6&color=1)](https://visitcount.itsvg.in)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mukmikts) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mmuxsrc) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tanyatorn-src)
+    [![](https://visitcount.itsvg.in/api?id=TanyatornSrc&icon=6&color=1)](https://visitcount.itsvg.in)
+
+</div>
 
 I am a dedicated and passionate Computer Engineering student in my fourth year at Sripatum University,
 <br>seeking an internship as a Front-end Developer. My strong interest lies in website and application technology,
@@ -42,10 +42,16 @@ I am a dedicated and passionate Computer Engineering student in my fourth year a
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 
-## 🎯 GitHub Stats
+<div align="center">
+    <h2 align="left">🎯 GitHub Stats</h2>
+        <a href="https://github.com/TanyatornSrc">
+            <img src="https://github-readme-stats.vercel.app/api?username=TanyatornSrc&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true"/>
+            <img src="![TanyatornSrc's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TanyatornSrc&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact)"/>
+</div>
+<!-- ## 🎯 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=TanyatornSrc&theme=aura&hide_border=true&include_all_commits=false&count_private=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=TanyatornSrc&theme=aura&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=TanyatornSrc&theme=aura&hide_border=true&include_all_commits=false&count_private=false&layout=compact) -->
 
 <!-- ## 🌐 Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mukmikts) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mmuxsrc) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tanyatorn-src)  -->
