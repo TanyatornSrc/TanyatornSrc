@@ -1,3 +1,5 @@
+<img align="center" width="100%" src="img/Profile-Banner.png">
+
 ## SAWATDEE ! 👋
 Hello, I’m Tanyatorn a computer Engineering student in the fourth year at the Faculty of Information Technology, Sripatum University,
 <br>seeking an internship as a Front-end Developer. My strong interest lies in website and application technology, 
