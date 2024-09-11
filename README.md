@@ -2,28 +2,23 @@
     <img width="100%" src="img/Profile-Banner.png">
 </div>
 
-<div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
-    <!-- Profile Views (Left-aligned) -->
+<div align="right">
     <div>
         <a href="https://visitcount.itsvg.in">
             <img src="https://visitcount.itsvg.in/api?id=TanyatornSrc&icon=6&color=1" height="24">
-        </a>
     </div>
-    <!-- Social Links (Right-aligned) -->
-    <div style="display: flex; gap: 8px;">
+    <div>
         <a href="https://facebook.com/mukmikts" target="_blank">
-            <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="24">
+            <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank" height="24">
         </a>
         <a href="https://instagram.com/mmuxsrc" target="_blank">
-            <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="24">
+            <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" height="24">
         </a>
         <a href="https://linkedin.com/in/tanyatorn-src" target="_blank">
-            <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="24">
-        </a>
+            <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" height="24">
+    </a>
     </div>
 </div>
-
-
 
 <!-- <div align=""left>
     <a href="https://visitcount.itsvg.in">
