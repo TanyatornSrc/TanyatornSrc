@@ -16,15 +16,13 @@
     </a>
 </div>
 
-<!-- <div align=""left>
-    <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=TanyatornSrc&icon=6&color=1" height="24">
-</div> -->
-
+<div>
+    <h2 align="left">SAWATDEE ! 👋</h2>
 I am a dedicated and passionate Computer Engineering student in my fourth year at Sripatum University,
 <br>seeking an internship as a Front-end Developer. My strong interest lies in website and application technology,
 <br>with a particular focus on Front-end Development and UX/UI Design. I am always eager about learning new technologies.
 <br><br>Thanks for dropping by, hope you find some of my work interesting.
+</div>
 
 ## 💻 Tech Stack
 
