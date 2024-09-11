@@ -45,8 +45,8 @@ I am a dedicated and passionate Computer Engineering student in my fourth year a
 <div align="center">
     <h2 align="left">🎯 GitHub Stats</h2>
         <a href="https://github.com/TanyatornSrc">
-            <img src="https://github-readme-stats.vercel.app/api?username=TanyatornSrc&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true"/>
-            <img src="![TanyatornSrc's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TanyatornSrc&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact)"/>
+            <img src="https://github-readme-stats.vercel.app/api?username=TanyatornSrc&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanyatornSrc&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact">
 </div>
 <!-- ## 🎯 GitHub Stats
 
