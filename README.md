@@ -2,7 +2,7 @@
     <img width="100%" src="img/Profile-Banner.png">
 </div>
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
+<div style="justify-content: space-between; align-items: center;">
     <div>
         <a href="https://visitcount.itsvg.in">
             <img src="https://visitcount.itsvg.in/api?id=TanyatornSrc&icon=6&color=1" height="24">
