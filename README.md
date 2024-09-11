@@ -17,7 +17,7 @@
 </div>
 
 <div>
-    <h2 align="left">SAWATDEE ! 👋</h2>
+    <h1 align="left">SAWATDEE ! 👋</h1>
 I am a dedicated and passionate Computer Engineering student in my fourth year at Sripatum University,
 <br>seeking an internship as a Front-end Developer. My strong interest lies in website and application technology,
 <br>with a particular focus on Front-end Development and UX/UI Design. I am always eager about learning new technologies.
