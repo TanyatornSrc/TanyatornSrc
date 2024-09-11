@@ -3,10 +3,8 @@
 </div>
 
 <div align="right">
-    <div>
         <a href="https://visitcount.itsvg.in">
             <img src="https://visitcount.itsvg.in/api?id=TanyatornSrc&icon=6&color=1" height="24">
-    </div>
     <div>
         <a href="https://facebook.com/mukmikts" target="_blank">
             <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank" height="24">
