@@ -1,6 +1,7 @@
 <img align="center" width="100%" src="img/Profile-Banner.png">
 
 [![](https://visitcount.itsvg.in/api?id=TanyatornSrc&icon=6&color=1)](https://visitcount.itsvg.in)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mukmikts) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mmuxsrc) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tanyatorn-src) 
 
 I am a dedicated and passionate Computer Engineering student in my fourth year at Sripatum University,
 <br>seeking an internship as a Front-end Developer. My strong interest lies in website and application technology, 
@@ -33,8 +34,8 @@ I am a dedicated and passionate Computer Engineering student in my fourth year a
 ![](https://github-readme-stats.vercel.app/api?username=TanyatornSrc&theme=aura&hide_border=true&include_all_commits=false&count_private=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=TanyatornSrc&theme=aura&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-## 🌐 Socials
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mukmikts) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mmuxsrc) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tanyatorn-src) 
+<!-- ## 🌐 Socials
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mukmikts) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mmuxsrc) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tanyatorn-src)  -->
 
 ---
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
