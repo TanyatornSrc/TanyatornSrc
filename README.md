@@ -22,6 +22,12 @@ I am a dedicated and passionate Computer Engineering student in my fourth year a
 <br>with a particular focus on Front-end Development and UX/UI Design. I am always eager about learning new technologies.
 <br><br>Thanks for dropping by, hope you find some of my work interesting.
 
+<div>
+    <h2 align="left">💻 Tech Stack</h2>
+    Programming Languages
+    <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" height="24">
+</div>
+
 ## 💻 Tech Stack
 
 **Programming Languages & Framework**
