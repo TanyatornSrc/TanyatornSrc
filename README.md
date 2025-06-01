@@ -18,9 +18,12 @@
         
 <div>
     <h1 align="left">SAWATDEE ! 👋</h1>
-        I am a dedicated and passionate Computer Engineering student in my fourth year at Sripatum University,
+        Recently graduated in Computer Engineering from Sripatum University, I’m passionate about building intuitive 
+        and user-friendly web experiences. With a focus on Front-end Development and UX/UI Design, I’m ready to bring my energy
+        and skills to a real-world team. Open to exciting opportunities — let’s connect!
+<!--         I am a dedicated and passionate Computer Engineering student in my fourth year at Sripatum University,
         My strong interest lies in website and application technology, with a particular focus on Front-end Development and UX/UI Design. 
-        I am always eager about learning new technologies.
+        I am always eager about learning new technologies. -->
         <br><br>Thanks for dropping by, hope you find some of my work interesting.
 </div>
 
